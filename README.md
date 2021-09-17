@@ -1,4 +1,4 @@
-# javascriptcapstone
+# Chinese Cuisene
 > This project is built based on two external APIs. One  [Meals DB API](https://www.themealdb.com/api.php) for storing information abot meals and another [Involvement API](https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270) to help with page interactions, i.e. help with storing and retrieving likes and comments about the items.
 
 ![homeshot](src/assets/homeshot.png)
